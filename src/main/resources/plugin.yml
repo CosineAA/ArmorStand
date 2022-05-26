@@ -1,0 +1,8 @@
+name: ArmorStand
+version: '${project.version}'
+main: com.cosine.armorstand.ArmorStand
+
+commands:
+  등:
+  왼손:
+  오른손:
